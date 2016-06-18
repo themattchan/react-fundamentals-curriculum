@@ -7,10 +7,9 @@
     "output"
   ],
   "dependencies": {
-    "purescript-console": "^1.0.0",
-    "purescript-react-dom": "~0.1.0",
-    "purescript-thermite": "^0.15.1",
-    "purescript-react": "^1.1.0"
+e    "purescript-console": "^1.0.0",
+     "purescript-react-dom": "~0.1.0",
+     "purescript-thermite": "^0.15.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^1.0.0"
