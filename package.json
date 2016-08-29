@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial-purescript",
+  "name": "react-fundamentals-purescript",
   "files": [],
   "scripts": {
     "build": "pulp browserify --to public/scripts/Main.js",
