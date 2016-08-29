@@ -1,5 +1,9 @@
 {
-  "name": "react-fundamentals-curriculum",
+  "name": "react-tutorial-purescript",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
@@ -8,9 +12,11 @@
   ],
   "dependencies": {
     "purescript-console": "^1.0.0",
-    "purescript-react-dom": "~0.1.0",
-    "purescript-thermite": "^0.15.1",
-    "purescript-react": "^1.1.0"
+    "purescript-dom": "^1.0.0",
+    "purescript-foreign": "^1.0.0",
+    "purescript-react-dom": "^1.0.0",
+    "purescript-react": "^1.0.0",
+    "purescript-unsafe-coerce": "^1.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^1.0.0"
