@@ -3,7 +3,6 @@ module Main where
 import Prelude
 import React.DOM as D
 import React.DOM.Props as P
-import Container                     (container)
 import Control.Monad.Eff             (Eff)
 import Control.Monad.Eff.Console     (log)
 import DOM                           (DOM())
